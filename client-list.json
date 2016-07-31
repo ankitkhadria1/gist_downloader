@@ -1,0 +1,6 @@
+[{
+  "name" : "name of the client",
+  "logo" : "image name for the client logo",
+  "propertyID" : "Property where the client sits in ( IRIS/NIRVANA/VERITAS )",
+  "Quality" : "Numeric ( 1-5 )"
+}]
